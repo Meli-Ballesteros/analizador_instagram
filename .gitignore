@@ -1,0 +1,12 @@
+# Variables de entorno (Mucha seguridad)
+.env
+
+# Entorno virtual de Python (No se sube a GitHub porque es muy pesado)
+venv/
+__pycache__/
+
+# Archivos de audio/video descargados temporalmente
+downloads/
+*.mp4
+*.mp3
+*.wav
