@@ -1,5 +1,7 @@
 # Variables de entorno (Mucha seguridad)
 .env
+venv/
+frutifloresitas
 
 # Entorno virtual de Python (No se sube a GitHub porque es muy pesado)
 venv/
@@ -10,3 +12,4 @@ downloads/
 *.mp4
 *.mp3
 *.wav
+
